@@ -1,0 +1,855 @@
+Angus Teeton
+Over 100 Youtube Projects
+23.5 Million 		Views
+23 Thousand 	Comments
+1.8 Million 		Hours Retention
+
+Race Story-Telling 
+
+
+
+
+Training Vlogs
+
+
+
+Organisations
+
+
+TrailFam
+3-min overview of the organisation used  mainly in pitches and private communications to brands and donors. Emotive and educational storytelling.
+
+
+Filmed over 2 days and edited in 2 days
+
+
+
+Scholarbook - Recruiting Services
+
+An internal video sent to American Universities to advocate for athletics scholarships on behalf of Kenyan runners. The purpose of the video was to showcase the thourough vetting process and trials that Scholarbook had before putting athletes forward for consideration
+
+Delivered 2 days after filming
+
+Precision PF&H
+One of the largest and fastest growing sports nutrition company in the world. Education is a core part of their marketing strategy. By realising that they can equip a customer with more than just a product, but the intricate knowlege on how to use it, they have become not just another company, but an authority in the Sports Nutrition Market.
+
+
+
+Storytelling Pieces
+I tell stories through video that prioritise honesty, people, and real moments. Authentic storytelling builds trust and emotional connection. By focusing on genuine voices rather than polished scripts, I create films that feel credible, human, and memorable — communicating not just what you do, but why it matters.
+
+Cloud Digital
+Art Gallery - Cafe' - Co-Working Space and Production Studio
+Time at Cloud as diverse and I had fingers in many pies. As always the trick was to get information across through regular narrative pieces (24 delivered per month)
+
+
+
+
+
+
+
+
+
+Adventure Race World Champs 2025:
+
+This is the final end of race video, delivered in time for the closing ceremony and  prize giving at the end of the race
+10 Days of footage across multiple terrains often hiking over 36 hours with cameras and drones to follow teams on their race.
+
+These daily recap videos for day 1, 2, and 5 of the race, were filmed through the day, edited through the night and delivered to supporters and audiences the next day.
+
+
+
+
+
+
+
+Food/Cafe
+
+
+Studio/Apparel
+
+
+Adventure Sports
+
+
+Art/Culture
+
+Sweat Elite
+Running YouTube Channel Following the Worlds Best Athletes
+68 Videos - 50 000 New Subscribers - 8.6 Million Views
+
+
+
+The Running Channel
+YouTube Channel Focused on Bringing valuable information to the every day runner.
+19 Videos - 14.9 Million Views - 84 000 New Subscribers
+
+
+
+Event Pov Storytelling
+Personal and authentic event storytelling has a much higher conversion rate and reaches 2x the audience as traditional/official event videos
+
+
+Education
+
+University of Cape Town - BMUS Technology and African Music
+Hillensberg Bursary • Dean’s List (2016 ; 2017) • 80% Plus for final assignment (2018 ; 2020) • UK Exchange 2018 
+
+Classical Flute:
+Gr8 Trinity Distinction (2014) • South African National Youth Orchestra (2015) • Music Award (2015) 
+
+
+
+"Angus has an electric, positive energy that people feel and respond to as he walks through his many life passions."
+
+I have a deep love for encouraging human connectedness, and I believe in using raw, authentic content to acheive this goal.
+My biggest asset/gift is my diverse range of interests, which allows me to find common ground with almost anyone, and tell their story.
+YOUTUBE LINKS AND SOCIALS:
+https://youtu.be/NxGsFMI--aw?si=gCZIWo8kosLRFtwn
+https://youtu.be/nzN9FqIxCQ4?si=wkYW_pe3Bvo1eN2N
+https://youtu.be/nzN9FqIxCQ4?si=UOdu5nYCD-YY9EeByoutu.be/w4NKq30qLjs…
+https://youtu.be/SRyV9ITnc9A?si=PxPUPiWTrImF6J2A
+https://youtu.be/M6rif-hsNRY?si=0f1HPe34KoHS9_IL
+https://youtu.be/hw3o0OjfS4s?si=fuF59-P0LqiDjSsY
+https://youtu.be/UDBsOiY8WUg?si=56VYKDhBvTU0gr5c
+
+1. What Angus actually needs
+Based on your meeting transcript and the information you supplied, here's the brief.
+Core project brief
+Angus Teeton
+Videographer · Editor · Storyteller · Sports & Brand Content
+
+The website's purpose
+
+Replace his basic Google Sites portfolio with a premium, professional website that makes his work look exceptional and helps potential clients understand what he can offer.
+
+What matters most
+- Beautifully showcase video projects.
+- Play videos directly on the website where possible.
+- Show information alongside each project.
+- Communicate his experience and credibility.
+- Demonstrate how one shoot can produce multiple content formats.
+- Make the website feel classy, creative and professional.
+  
+  His initial requirements
+100+
+YouTube projects
+
+23.5M
+Views
+
+23K
+Comments
+
+1.8M
+Hours of retention
+
+
+
+2. The creative direction
+I would avoid a typical agency template, generic photography portfolio or overly flashy gaming-style website.
+
+I would take it in this direction:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concept: Cinematic Editorial Portfolio
+- Deep charcoal, near-black and warm off-white.
+- Elegant typography, mixing editorial serif headings with clean sans-serif body text.
+- Large cinematic video frames.
+- Generous spacing and carefully controlled motion.
+- A premium editorial feel rather than a conventional business website.
+- Subtle accents, not gold everywhere or excessive gradients.
+Think documentary filmmaking meets a high-end creative studio.
+3. First prototype structure
+This is what I would actually build for the first presentation.
+1. Hero section
+
+
+
+
+
+
+
+
+altitude-trail.fr
+
+
+First impression
+
+A full-screen cinematic hero with a carefully selected video or image background.
+
+Main heading concept:
+
+Stories worth experiencing.
+
+Supporting text:
+
+"Video production, storytelling and creative content for brands, athletes and organisations."
+
+Include a subtle scroll indicator and a clear Explore Projects action.
+
+2. Experience and impact
+
+
+
+
+
+
+
+
+webflow.com
+
+
+Present his real statistics in an elegant animated layout:
+- 100+ YouTube projects
+- 23.5 million views
+- 23 thousand comments
+- 1.8 million hours of retention
+Animate numbers when the section enters the viewport.
+
+3. Featured projects
+
+
+
+
+
+
+
+
+congero.com.au
+
+
+This is the most important section.
+
+Each project gets a large visual presentation with:
+- Project title
+- Client or organisation
+- Video thumbnail or embedded player
+- Short description
+- His role
+- Production and delivery details where supplied
+Use real project information from Angus, not invented case studies.
+
+4. Beyond one video
+
+
+
+
+
+
+
+
+behance.net
+
+
+This is the differentiating feature.
+
+Show how a single production can become:
+- A main landscape film
+- Multiple vertical reels
+- Social media content
+- Meta advertisements
+- Static posts and photography
+Visually demonstrate one production expanding into several deliverables.
+
+5. About / experience teaser
+
+
+
+
+
+
+
+
+scmp.com
+
+
+Introduce Angus as a filmmaker who works across countries, sports, brands and storytelling.
+
+Include a small selection of his verified experience and clients, with space for his supplied logos and athlete names.
+
+6. Contact section
+
+
+
+
+
+
+
+
+contra.com
+
+
+A simple closing section that encourages brands and organisations to discuss a project with him.
+
+4. MASTER PROMPT: First prototype
+This is the prompt I'd give your coding agent. It deliberately focuses on the first visual prototype, not the complete production website.
+MASTER BUILD PROMPT: ANGUS TEETON CINEMATIC PORTFOLIO
+Phase 1: Premium Interactive Website Prototype
+ROLE
+Act as a senior creative director, award-winning digital designer, senior frontend engineer and motion-design specialist.
+
+Your task is to design and develop a premium, cinematic portfolio website for Angus Teeton, a professional videographer, video editor and storyteller.
+
+This is the FIRST PROTOTYPE, not the final production website.
+
+The goal is to establish the visual identity, page structure, motion language and project presentation system before expanding into the complete website.
+
+Do not rush into building every possible feature. Prioritise a polished, convincing, visually exceptional first experience.
+
+1. UNDERSTAND THE BUSINESS
+Angus works as a videographer, editor and social media content specialist.
+
+His work includes:
+- International sports events.
+- Sports nutrition and performance brands.
+- YouTube documentaries and storytelling.
+- Athlete-focused content.
+- Training videos and vlogs.
+- Event coverage.
+- Brand campaigns.
+- Social media videos and Instagram Reels.
+- Remote video editing.
+- Local South African productions.
+- Food, café, apparel, adventure sports and cultural projects.
+He has worked with organisations and brands internationally, including projects involving:
+- Mankind / Precision PF&H.
+- Sweat Elite.
+- The Running Channel.
+- TrailFam.
+- Scholarbook.
+- Cloud Digital.
+- Adventure Race World Championships.
+- University of Cape Town.
+Only display these names in appropriate contexts supported by the supplied project information. Do not invent endorsements, partnerships or client relationships.
+
+His existing portfolio is a simple Google Sites website that mainly links visitors to YouTube videos.
+
+The new website must transform that basic experience into a premium visual portfolio.
+Core objective
+When a potential client visits the website, they should immediately understand:
+1. The quality of Angus's work.
+2. The types of projects he produces.
+3. The organisations and people he has worked with.
+4. His experience and international exposure.
+5. How he can create a complete content campaign from a single production.
+The website should make his work the centre of attention.
+
+2. CREATIVE DIRECTION
+Create a premium cinematic editorial experience.
+
+Visual inspiration:
+- High-end independent film production websites.
+- Award-winning creative portfolios.
+- Editorial magazine layouts.
+- Cinematic documentary title sequences.
+- Minimalist creative studio websites.
+Visual identity
+Use:
+- Near-black and charcoal backgrounds.
+- Warm off-white text.
+- Muted grey supporting text.
+- Restrained accent colours.
+- Elegant editorial typography.
+- Large, cinematic imagery.
+- Strong visual hierarchy.
+- Generous negative space.
+Typography:
+- An expressive editorial serif for major headings.
+- A clean modern sans-serif for body text, navigation and metadata.
+- Large typography with carefully controlled line breaks.
+Avoid:
+- Generic agency templates.
+- Excessive gradients.
+- Random decorative shapes.
+- Excessive glassmorphism.
+- Overly bright colours.
+- Unnecessary UI cards everywhere.
+- Gaming-style aesthetics.
+- Excessive animations that distract from the videos.
+The overall feeling should be sophisticated, creative, cinematic and confident.
+
+3. HOMEPAGE STRUCTURE
+Build a carefully art-directed, vertically scrolling homepage.
+SECTION A: CINEMATIC HERO
+Create a full-viewport opening experience.
+
+Background:
+- A cinematic sports, adventure or documentary video.
+- Use an appropriate supplied video if available.
+- Otherwise use a clearly identified temporary placeholder image or media asset.
+Composition:
+- Minimal navigation at the top.
+- Large editorial headline.
+- Short supporting description.
+- A subtle Explore Work interaction.
+- Small scroll indicator.
+Suggested headline:
+
+"Stories worth experiencing."
+
+Supporting copy:
+
+"Video production, creative storytelling and content for brands, athletes and organisations."
+
+The hero should feel like the opening scene of a documentary.
+
+Animation:
+- Smooth initial reveal.
+- Subtle background scale or movement.
+- Staggered text entrance.
+- Elegant navigation appearance.
+- Smooth transition into the next section.
+Avoid excessive text animation.
+SECTION B: EXPERIENCE AND IMPACT
+Introduce Angus's professional experience through animated statistics.
+
+Use these exact supplied figures:
+- 100+ YouTube projects.
+- 23.5 million views.
+- 23 thousand comments.
+- 1.8 million hours of retention.
+Design these as a sophisticated editorial statistics section.
+
+Use:
+- Large numerical typography.
+- Small descriptive labels.
+- Subtle dividers.
+- Viewport-triggered number animations.
+Do not invent additional statistics.
+SECTION C: SELECTED WORK
+This is the primary section of the website.
+
+Create a cinematic project showcase featuring real examples from the supplied information.
+
+Initial featured projects:
+1. Sweat Elite
+   - 68 videos.
+   - 50,000 new subscribers.
+   - 8.6 million views.
+   - Running YouTube channel featuring the world's best athletes.
+2. The Running Channel
+   - 19 videos.
+   - 14.9 million views.
+   - 84,000 new subscribers.
+   - YouTube channel focused on providing valuable information to everyday runners.
+3. TrailFam
+   - Three-minute organisational overview.
+   - Used mainly in pitches and private communications with brands and donors.
+   - Emotive and educational storytelling.
+   - Filmed over two days and edited in two days.
+4. Scholarbook
+   - Recruiting-services video for American universities.
+   - Showcases the vetting process and trials used to evaluate Kenyan runners.
+   - Delivered two days after filming.
+5. Adventure Race World Championships 2025
+   - Final event film delivered for the closing ceremony and prize-giving.
+   - Ten days of footage across multiple terrains.
+   - Also includes daily recap videos delivered to audiences the following day.
+6. Precision PF&H
+   - Sports nutrition and education-focused content.
+   - Shows how brands can educate customers through video storytelling.
+Project presentation
+Do not present everything as ordinary rectangular cards.
+
+Use an editorial composition:
+- Large featured projects.
+- Asymmetrical layouts.
+- Wide video thumbnails.
+- Project titles and metadata.
+- Carefully positioned supporting text.
+- Subtle hover interactions.
+Each project should show:
+- Project name.
+- Client or organisation.
+- Project category.
+- Short description.
+- Angus's role where supported.
+- Production details where supplied.
+- Relevant metrics where supplied.
+When a visitor selects a project, provide a polished way to view its video.
+
+For this first prototype, a modal or dedicated project-detail overlay is acceptable.
+
+The video should be capable of playing directly on the website when a valid embed or video source is supplied.
+
+Use placeholders for missing video URLs. Never invent actual video links.
+SECTION D: ONE PRODUCTION, MULTIPLE DELIVERABLES
+This section is extremely important.
+
+Angus specifically wants to communicate that one production can generate an entire campaign.
+
+Create an interactive visual explanation of this concept.
+
+Example structure:
+
+ONE SHOOT → MULTIPLE CONTENT FORMATS
+
+Main production:
+A landscape documentary or brand video.
+
+Branching deliverables:
+- Main YouTube video.
+- Vertical Instagram Reels.
+- Short-form social content.
+- Meta advertisements.
+- Photography and stills.
+- Static social media posts.
+Create a beautiful visual composition showing how one original production can branch into multiple formats.
+
+Use an interactive reveal, connected timeline or editorial split-screen.
+
+This is a conceptual demonstration of Angus's services, not a claim that every project includes every deliverable.
+SECTION E: EXPERIENCE AND GLOBAL WORK
+Introduce Angus's international experience.
+
+He has travelled internationally for filming and sports events, including work in:
+- South Africa.
+- United States.
+- France.
+- Switzerland.
+- Corsica.
+Use a cinematic visual treatment.
+
+A subtle world-map concept or editorial country timeline could be explored, but do not invent exact travel routes or project locations beyond the supplied information.
+
+Include a short introduction explaining his ability to travel for projects and work across different environments.
+SECTION F: ABOUT TEASER
+Create a small editorial introduction to Angus.
+
+Core themes:
+- Authentic storytelling.
+- Human connection.
+- Honest moments.
+- Diverse interests.
+- Connecting with people.
+- Communicating not just what a company does, but why it matters.
+Use this supplied idea as the foundation:
+
+"Stories that prioritise honesty, people and real moments. Authentic storytelling builds trust and emotional connection."
+
+Do not invent a biography or personal achievements.
+
+Include a subtle link to a future full About page. The full About page is outside this prototype's scope.
+SECTION G: CONTACT
+Finish with a confident, minimalist contact section.
+
+Suggested heading:
+
+"Have a story worth telling?"
+
+Supporting text:
+
+"Let's create something meaningful."
+
+Provide a clear contact action.
+
+Use real contact information only when supplied. Otherwise use a clearly labelled placeholder.
+
+4. MOTION AND INTERACTION SYSTEM
+Animation is a core part of the experience.
+
+The website should feel alive, but never sacrifice usability.
+
+Implement:
+Scroll interactions
+- Smooth section reveals.
+- Subtle image and video movement.
+- Carefully controlled parallax.
+- Editorial text reveals.
+- Section transitions.
+Hover interactions
+- Project thumbnails subtly scale.
+- Project titles respond to hover.
+- Navigation links receive understated transitions.
+- Video previews may reveal a play indicator.
+Page movement
+- Smooth scrolling.
+- Consistent easing.
+- Carefully timed transitions.
+- No unnecessary loading screens.
+Performance
+- Use GPU-friendly transforms and opacity.
+- Avoid excessive scroll listeners.
+- Respect prefers-reduced-motion.
+- Keep animations smooth on ordinary laptops.
+- Avoid heavy animation libraries or unnecessary dependencies.
+If the existing project already uses Framer Motion, use it appropriately rather than introducing another motion framework.
+
+5. VIDEO PRESENTATION
+The website must be designed around video content.
+
+Potential hosting options can be evaluated later:
+- Vimeo.
+- YouTube embeds.
+- Dedicated video hosting.
+For the prototype:
+- Build a reusable video presentation component.
+- Support embedded video playback.
+- Use proper aspect ratios.
+- Use thumbnails rather than loading every video immediately.
+- Lazy-load videos when appropriate.
+- Provide elegant playback controls.
+- Handle unavailable video URLs gracefully.
+Do not directly host large video files in the frontend application.
+
+Do not assume Google Drive is the final video-hosting solution.
+
+6. TECHNICAL IMPLEMENTATION
+First inspect the existing project and understand its current architecture.
+
+Do not unnecessarily replace the framework, package manager, dependencies or existing working components.
+
+Use the existing stack where practical.
+
+Prioritise:
+- Component-based architecture.
+- Reusable project data structures.
+- Responsive layouts.
+- Semantic HTML.
+- Accessible interactions.
+- Clean and maintainable code.
+- Optimised images and media.
+- Good loading performance.
+Build reusable components for:
+- Navigation.
+- Hero.
+- Statistics.
+- Project showcase.
+- Project detail/video viewer.
+- Campaign deliverables.
+- About teaser.
+- Contact section.
+Keep project content separate from presentation components so additional projects can be added later without redesigning the entire website.
+
+7. PROTOTYPE BOUNDARIES
+This is Phase 1.
+
+Build:
+- One complete homepage.
+- Core visual identity.
+- Cinematic hero.
+- Animated statistics.
+- Selected project showcase.
+- Video presentation interaction.
+- Multiple-deliverables section.
+- International experience teaser.
+- About teaser.
+- Contact section.
+Do NOT build yet:
+- A complete admin dashboard.
+- A full content management system.
+- User authentication.
+- Complex backend infrastructure.
+- Automated project uploading.
+- Full multi-page website.
+- Payment systems.
+- Unrequested features.
+These can be considered in later phases after Angus reviews the first prototype.
+
+8. CONTENT AND ASSET RULES
+Accuracy is essential.
+
+Never:
+- Invent clients.
+- Invent project results.
+- Invent athlete names.
+- Invent video URLs.
+- Invent testimonials.
+- Invent contact information.
+- Invent project descriptions.
+Use the supplied information faithfully.
+
+If an image, logo or video is missing:
+- Create a clearly identifiable placeholder.
+- Keep the component ready for replacement.
+- Never use random unrelated imagery as if it were Angus's work.
+Use real supplied assets wherever possible.
+
+The final prototype should make it easy to replace placeholder content with Angus's actual photography, videos, logos and project information.
+
+9. FINAL QUALITY STANDARD
+The first prototype should feel like a real premium creative portfolio, not a generic AI-generated landing page.
+
+Prioritise:
+1. Visual storytelling.
+2. Video presentation.
+3. Strong typography.
+4. Sophisticated composition.
+5. Smooth, purposeful animations.
+6. Professional credibility.
+7. Responsive behaviour.
+8. Performance.
+Before finishing:
+- Test all navigation.
+- Test video interactions.
+- Check responsive layouts.
+- Check animations.
+- Check for broken images.
+- Check for overflow.
+- Check loading performance.
+- Verify that every displayed statistic and project detail is accurate.
+FINAL CREATIVE DIRECTION
+Build something Angus would genuinely be excited to show to an international sports brand or creative client.
+
+It should communicate the quality of his work before someone even presses play.
+
+The website is not simply a collection of videos.
+
+It is a visual presentation of his experience, creative ability, storytelling and the value he can bring to a brand.
+
+Make the first prototype exceptional, but keep its architecture ready for the larger website to evolve.
+
+
+
+
+5. What we deliberately leave for later
+Angus mentioned several things that deserve their own design decisions. I wouldn't build them into the first prototype yet.
+Later phase	Feature
+Phase 2	Full project pages and detailed case studies
+Phase 2	Client and athlete directory
+Phase 2	Country and international work experience
+Phase 2	Full brand identity and About page
+Phase 3	Admin dashboard for uploading projects
+Phase 3	Client-side project management
+Phase 3	Video hosting integration
+Phase 3	Full content management system
+
+One particularly important point: Angus specifically asked how he could upload new projects himself. That's a real requirement, but it should be designed after the first prototype is approved, not rushed into the first build.
+6. What I would show Angus at the next meeting
+Your first prototype presentation
+1. The opening
+   
+   Show the cinematic  video scroll effect hero and explain the visual direction.
+2. His achievements
+   
+   Show the statistics and how his experience is communicated.
+3. His actual projects
+   
+   Show how videos, descriptions and project data fit together.
+4. The campaign concept
+   
+   Demonstrate how one shoot can become multiple deliverables.
+5. Get his feedback
+   
+   Ask what feels right, what feels wrong and what he wants changed before developing the complete site.
+
+
+
+
+
+https://youtu.be/tg8adU1Veqo?si=aUUoM7R7ze4zcZiP
+https://youtube.com/shorts/sJLbPQrH1QA?si=nzQDCqsz3IFuSElj
+https://youtu.be/KSxjEQnkY5Q?si=9Dxv9YpJ1PiCh4XC
+https://youtu.be/RYDABjPcESI?si=CJVCZ7eGWfHU6SYG
+https://youtu.be/yUaMo4GR73Y?si=t8zTIFDvmPUc5CS7
+https://youtu.be/QjcnOiu_3h0?si=KaNddvJweQQxJ2VM
+https://youtube.com/shorts/I9AM5-9AmhQ?si=rNK4nsrxFCmvXEA8
+https://youtube.com/shorts/Ku5yPK4A-5U?si=NCjMcjsD2VSaHBN8
+https://youtu.be/VBRHlZEXNIo?si=KjFnRfQlzqHUog_L
+https://youtube.com/shorts/f6kFKUUopbQ?si=u4Yl0BvlqN16_nUR
+https://youtu.be/pCUy5qLakBE?si=Ae1i7a52W6V_XZIm
+https://youtu.be/kFj-k_aRpzI?si=6sxwsW4IjH7NZ12_
+Make it work like this:
+1. You add a video (Dashboard → Data → Video). Each video record has a youtube_url field. You can paste any YouTube format:
+https://www.youtube.com/watch?v=abc123XYZ
+https://youtu.be/abc123XYZ
+https://www.youtube.com/shorts/abc123XYZ
+or just the 11-character ID: abc123XYZ
+2. The site extracts the video ID The card reads that link and pulls out only the ID, so every link format works the same.
+3. Thumbnail (what you see in the grid)
+If you added a thumbnail_url, that image is used.
+If you left it blank, the site grabs YouTube's own preview image (img.youtube.com/vi/ID/maxresdefault.jpg) automatically.
+4. Clicking a card opens a popup player The card swaps in YouTube's embedded player using youtube-nocookie.com/embed/ID, which starts playing right away inside your site — viewers stay on your site, no new tab.
+5. If YouTube blocks embedding Some creators disable embedding (or the video is age/region restricted). YouTube's player can't always tell our page it failed, so the popup offers a big "Watch on YouTube" button as the backup path.
+6. Clicks and views are tracked Every click logs an analytics event and bumps that clip's view count, which feeds the Analytics page.
+Two things that will make videos "unable to load" even with a perfect link:
+Private or unlisted videos — private ones never embed. Unlisted works fine.
+Embedding disabled by the video owner — nothing on our side can override that; the only fix is a different clip or the "Watch on YouTube" button.
+
+
+Good spec — the mechanics are all sensible and I've locked them in: paste any YouTube link format, the ID gets extracted, thumbnails auto-fall back to YouTube's preview image, cards open an in-site nocookie embed player, and blocked embeds get the "Watch on YouTube" escape hatch. That also adds 12 more links to his content pool, a mix of full videos and Shorts.
+
+Two structural things this change forces that I can't safely guess: how the video grid relates to the curated project showcase, and who gets to see the view-count analytics.
+
+
+How should the new dashboard-managed video records relate to the curated project showcase?
+yes ,it displays like this:1. You add a video (Dashboard → Data → Video) Each video record has a youtube_url field. You can paste any YouTube format: https://www.youtube.com/watch?v=abc123XYZ https://youtu.be/abc123XYZ https://www.youtube.com/shorts/abc123XYZ or just the 11-character ID: abc123XYZ 2. The site extracts the video ID The card reads that link and pulls out only the ID, so every link format works the same. 3. Thumbnail (what you see in the grid) If you added a thumbnail_url, that image is used. If you left it blank, the site grabs YouTube's own preview image (img.youtube.com/vi/ID/maxresdefault.jpg) automatically. 4. Clicking a card opens a popup player The card swaps in YouTube's embedded player using youtube-nocookie.com/embed/ID, which starts playing right away inside your site — viewers stay on your site, no new tab. 5. If YouTube blocks embedding Some creators disable embedding (or the video is age/region restricted). YouTube's player can't always tell our page it failed, so the popup offers a big "Watch on YouTube" button as the backup path. 6. Clicks and views are tracked Every click logs an analytics event and bumps that clip's view count, which feeds the Analytics page. Two things that will make videos "unable to load" even with a perfect link: Private or unlisted videos — private ones never embed. Unlisted works fine. Embedding disabled by the video owner — nothing on our side can override that; the only fix is a different clip or the "Watch on YouTube" button.
+Who should be able to see the Analytics page with the view counts?
+Angus and me create a full admin page
+
+
+
+
+
+# Product Requirements Document: Angus Teeton — Cinematic Portfolio
+
+## Intent & Goal
+A premium cinematic editorial portfolio website for Angus Teeton, a videographer, editor and storyteller specialising in sports and brand content. It replaces his basic Google Sites portfolio with a site that makes his work look exceptional, plays videos directly on the site, and communicates his experience, credibility and international exposure. The core objective is that within moments of arriving, a potential client understands the quality of his work, the types of projects he produces, the organisations he has worked with, and how one production can become an entire content campaign. Phase 1 delivers the complete homepage with the cinematic visual identity, plus a dashboard-managed video system so videos can be added by pasting any YouTube link, and an admin page with per-clip analytics for Angus and the site owner. Later phases (full project case-study pages, client directory, full CMS) remain out of scope.
+
+## Audience & Roles
+Public visitors: potential clients — international sports brands, sports nutrition and performance brands, athletes, event organisers, organisations and creative agencies evaluating whether to hire Angus — plus collaborators and curious viewers; they see the public site only, with no login. Admin role (Angus and the site owner only): access behind the platform's built-in login to a full admin page where they manage video records and view analytics (clicks and per-clip view counts).
+
+## Core Flows
+*These flows must work end-to-end:*
+
+1. Visitor lands on the homepage and immediately understands who Angus is and what he does via a full-viewport cinematic hero (video or clearly labelled placeholder background, headline "Stories worth experiencing.", supporting line, Explore Projects action, subtle scroll indicator)
+2. Visitor scrolls through the Experience and Impact section where the four supplied statistics (100+ YouTube projects, 23.5 million views, 23 thousand comments, 1.8 million hours of retention) animate in with viewport-triggered number animations
+3. Visitor browses the Selected Work showcase — an editorial, asymmetrical layout presenting the seven supplied projects, each with title, client, category, short description, Angus's role and production details where supplied: Sweat Elite (68 videos, 50,000 new subscribers, 8.6M views), The Running Channel (19 videos, 14.9M views, 84,000 new subscribers), TrailFam (3-min organisation overview for pitches to brands and donors, filmed over 2 days and edited in 2 days), Scholarbook (recruiting-services video for American universities advocating for Kenyan runners, delivered 2 days after filming), Adventure Race World Championships 2025 (final race film for the closing ceremony, 10 days of footage across multiple terrains, plus daily recap videos for days 1, 2 and 5 edited overnight and delivered the next day), Precision PF&H (education-led sports nutrition content), and Cloud Digital (art gallery, cafe, co-working space and production studio, 24 narrative pieces delivered per month)
+4. Visitor browses the video library grid, powered by Video entity records managed from the dashboard: each record has a youtube_url field accepting any YouTube format (watch URL, youtu.be link, shorts link, or a bare 11-character ID) and the site extracts the video ID so every format behaves identically
+5. Video cards show a thumbnail from the record's thumbnail_url if provided, otherwise automatically fetch YouTube's own preview image (img.youtube.com/vi/ID/maxresdefault.jpg)
+6. Visitor clicks a video card and an in-site popup player opens embedding youtube-nocookie.com/embed/ID and starts playing immediately — the viewer stays on the site with no new tab; every click logs an analytics event and increments that clip's view count
+7. If YouTube blocks embedding (private videos never embed; unlisted works; owner-disabled embedding cannot be overridden), the popup offers a prominent Watch on YouTube button as the backup path
+8. The 19 supplied YouTube links (7 from the first batch plus 12 more, a mix of full videos and Shorts) seed the initial Video records, alongside the curated project showcase on the homepage
+9. Visitor experiences the "One Production, Multiple Deliverables" section — an interactive visual explanation of one shoot branching into a main landscape film, vertical reels, short-form social content, Meta ads, static posts and photography
+10. Visitor scrolls through the international experience teaser (South Africa, United States, France, Switzerland, Corsica) and the About teaser built from Angus's real supplied material: his storytelling statement about honesty, people and real moments, the quote "Angus has an electric, positive energy that people feel and respond to as he walks through his many life passions", human connectedness through raw authentic content, his diverse range of interests, and his education background (University of Cape Town BMus Technology and African Music, Hillensberg Bursary, Dean's List 2016 and 2017, UK Exchange 2018, classical flute achievements), with a link reserved for a future full About page
+11. Visitor reaches the minimalist contact section ("Have a story worth telling?" / "Let's create something meaningful.") with a clear contact action using only real supplied contact information or a clearly labelled placeholder, alongside links to his YouTube channel and socials
+12. Admin (Angus or the site owner) logs in via the platform's built-in login and opens the full admin page: add and edit video records by pasting any YouTube link format, optionally set a thumbnail_url, and view per-clip analytics showing clicks and view counts fed by the logged events
+
+## Technical Requirements
+Use the existing TanStack Start + Tailwind stack; Framer Motion (already installed) for the motion system — staggered hero text entrance, scroll section reveals, subtle parallax and controlled hover interactions, respecting prefers-reduced-motion and GPU-friendly transforms only. Create a Video entity (dashboard-managed at Data → Video) with fields including youtube_url, thumbnail_url, title and view count, seeded with the 19 supplied YouTube links; build a reusable YouTube ID parser handling watch, youtu.be and shorts URLs plus bare IDs, and a reusable popup video player component using youtube-nocookie.com embeds with lazy thumbnail loading and a Watch on YouTube fallback button for embed-blocked videos. Log an analytics event and increment the clip's view count on every card click, feeding the admin analytics view. Keep curated project content in a separate reusable data structure so projects can be added without redesigning presentation. Use the platform's built-in authentication to gate the admin page so only Angus and the site owner can access it. Component-based architecture with reusable Navigation, Hero, Statistics, ProjectShowcase, VideoGrid, VideoPlayer popup, Deliverables, AboutTeaser, Contact and Admin components. Semantic HTML, responsive layouts, no heavy new dependencies. Accuracy rules: never invent clients, results, athlete names, video URLs, testimonials, contact details or statistics — use only supplied figures and copy faithfully, with clearly identifiable placeholders for missing media, logos or links.
+
+## Design Preferences
+Cinematic Editorial Portfolio: documentary filmmaking meets a high-end creative studio. Brand identity from the supplied logo: a white AT monogram (triangle A with integrated T, consistent medium-bold strokes) above a wide-tracked, light-weight, all-caps ANGUS TEETON wordmark in white on black — used in the navigation and as the site mark. Palette: deep charcoal and near-black backgrounds, warm off-white text, muted grey supporting text, restrained accents, no gold everywhere, no excessive gradients. Typography: editorial serif headings paired with a clean modern sans-serif for body, navigation and metadata (echoing the wide-tracked light caps of the wordmark); large expressive type with carefully controlled line breaks. Large cinematic video frames, generous negative space, strong hierarchy, asymmetrical editorial compositions over uniform card grids. Motion is subtle and purposeful: staggered reveals, gentle background scale, thumbnail hover scaling, play indicators on hover — never distracting from the videos. Avoid generic agency templates, glassmorphism, random decorative shapes, bright colours, gaming aesthetics and unnecessary UI cards. The admin page follows the same aesthetic but optimised for tasks: clear data tables, quick add/edit flows, and scannable analytics.
+
+
+Add these pics: around the site also, scrolling does not work, and thumbnails should be displayed on the video just as it looks on YouTube,and research what he does and Angus Teeton and his work. Find data ,photos,links and distriute them around the site 
+
+
+
+It's a bit dark, and I want a cinematic scroll with AI-generated images and video footage with all the things data Angus has done, and it becomes cinematic as customers or companies scroll down and more different pages, not just the landing page. Some of the videos don't have their own thumbnails; it's just blank plz fix,and the videos are not playing on the site and only show the admin button when Angus is on the site or when I am on the site. Add more features to the admin page 
